@@ -1,4 +1,4 @@
-# Appsenal Resource Guide
+# Appsenal Resource Guide ![](https://komarev.com/ghpvc/?username=Appsenal-Resource-Guide&color=blue)
 What do you think of Tottenham? Shit. And what do you think of shit? Tottenham.
 
 Välkommen till Appsenal Guide! Denna guide är skapad för att hjälpa apputvecklare, både nybörjare och erfarna, att hitta de bästa verktygen och resurserna. Guiden är särskilt framtagen för MAP24-gruppen, där vi tillsammans kan dela med oss av de verktyg och resurser vi hittar.
